@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chandankrihnani   
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning COCOS
+- 🌱 I’m currently working on cocos creater and block chain 
 - 📫 How to reach me https://www.linkedin.com/in/chandan-krishnani-7774451a1/
 
 <!---
